@@ -2,6 +2,10 @@
 
 Each entry is one version of this Railway template. Read it before you apply an update in Railway: breaking changes come first.
 
+## 2.5.11, README (2026-11-16)
+
+- README: Deploy on Railway button for the published template `uptime-kuma-4`. No change to what gets deployed.
+
 ## 2.5.11 (2026-11-16)
 
 - **Uptime Kuma 2.5.11** (`louislam/uptime-kuma:2.5.11@sha256:7554dba313c84e44fee921ef3b5626ba1c711e412e82815e8c957517026112a9`). The template used to run the 2.4.0 image directly.

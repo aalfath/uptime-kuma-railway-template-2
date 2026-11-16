@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/uptime-kuma-4?utm_medium=integration&utm_source=button&utm_campaign=uptime-kuma)
+
 # Uptime Kuma on Railway
 
 A one-click Railway template for [Uptime Kuma](https://github.com/louislam/uptime-kuma), the self-hosted uptime monitor with status pages and notifications.
