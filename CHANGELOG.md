@@ -2,6 +2,12 @@
 
 Each entry is one version of this Railway template. Read it before you apply an update in Railway: breaking changes come first.
 
+## 2.5.12 (2026-11-19)
+
+- No breaking changes. Monitors, history and settings on the `/app/data` volume are kept.
+- Uptime Kuma [2.5.12](https://github.com/louislam/uptime-kuma/releases/tag/2.5.12) is a security fix: it sandboxes a dangerous library (#8187).
+- Image: `louislam/uptime-kuma:2.5.12@sha256:8e4b6bef96417ec98a35dc103c99cc64fc229a01e584e56d95d9004d2003c02a`.
+
 ## 2.5.11, README (2026-11-16)
 
 - README: Deploy on Railway button for the published template `uptime-kuma-4`. No change to what gets deployed.
