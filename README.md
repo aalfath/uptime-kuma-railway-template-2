@@ -8,7 +8,7 @@ Published on the Railway marketplace as `uptime-kuma-4`: https://railway.com/dep
 
 ## What it deploys
 
-- One service built from this repo's `Dockerfile`: the official image `louislam/uptime-kuma:2.5.11`, pinned by digest, plus a small start script (`start.sh`).
+- One service built from this repo's `Dockerfile`: the official image `louislam/uptime-kuma:2.5.12`, pinned by digest, plus a small start script (`start.sh`).
 - A volume at `/app/data` for the SQLite database, settings and uploads.
 - A public Railway domain on port 3001, with a health check on `/api/entry-page`.
 
